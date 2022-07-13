@@ -1,0 +1,51 @@
+ 
+.fewwords{
+    /* font-size: x-large; */
+    text-align: center;
+}
+/* .yellowpic{
+    text-align: center;
+    
+} */
+.linepic{
+padding-left: 300px;
+ 
+ 
+} 
+.nav-link:hover{
+    border-bottom: 1px solid black;
+}
+.nametext{
+    position: relative;
+    left: 475px;
+    bottom: 60px;
+    font-size:x-small;
+     
+    
+} 
+#newname{
+    /* display: inline; */
+    position: relative;
+    bottom:15px;
+    
+}
+#social{
+    position: relative;
+    left: 450px;
+    bottom: 60px;
+    height: 40px;
+     
+     
+}
+#mikapic{
+    border-radius: 50%;
+}
+.eyes{
+    position: relative;
+    left: 50%;
+    bottom: 60%;
+} 
+#Sup{
+    position: relative;
+    left: 60%;
+}
